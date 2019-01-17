@@ -1,6 +1,6 @@
 # Deep-learning-Expression-pattern
 
-RNA-Seq data from two factors experiment design someitmes are difficult to analyse, because commonly available tools are designed for comapring time series data with one factor. In this case, the experiment was conducted with two factors, high light exposure time and cell line (WT vs. LHCX1). 
+RNA-Seq data from two factors experiment design are sometimes difficult to analyze, because commonly available tools are designed for comparing time series data with one factor. In this case, the experiment was conducted with two factors, high light exposure time and cell line (WT vs. LHCX1).
 
 <img src = './images/PCA.png' width = 300></img>
 
@@ -19,4 +19,4 @@ Finally, by calculating the distances between different function groups, we can 
 <img src = './images/Network.png' width = 300></img>
 
 It seems photosynthesis has been significantly affected by the knock out LHCX1 gene in response to high light exposure time.
-Details about this work can be fund in [LHCX_report](./LHCX_report.pdf)
+Details about this work can be found in [LHCX_report](./LHCX_report.pdf)
